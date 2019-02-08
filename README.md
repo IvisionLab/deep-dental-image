@@ -4,5 +4,6 @@ Mask R-CNN for instance segmentation of panoramic X-ray images
 # Code
 Pyhon
 
-![ScreenShot](/best.png)
+![ScreenShot](/best.jpg)
 
+# Citation
