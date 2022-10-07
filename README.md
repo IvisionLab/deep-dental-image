@@ -15,9 +15,9 @@ in panoramic X-ray images](http://ivisionlab.ufba.br/doc/publication/2018/tooth_
 
 
 ## Request Dataset
-Please send an e-mail to lrebouca@ufba.br to receive a link to the UFBA_UESC_DENTAL_IMAGES_DEEP dataset. Your e-mail must be sent from a valid institutional account, and include the following text (copy and paste the text below, filling the required fields):
+Please send an e-mail to lrebouca@ufba.br to receive a link to the UFBA_UESB_DENTAL_IMAGES_DEEP dataset. Your e-mail must be sent from a valid institutional account, and include the following text (copy and paste the text below, filling the required fields):
 
-"Subject: Request to download UFBA_UESC_DENTAL_IMAGES_DEEP dataset.
+"Subject: Request to download UFBA_UESB_DENTAL_IMAGES_DEEP dataset.
 
 * Name: [your first and last name]
 * Affiliation: [university where you work]
@@ -26,7 +26,7 @@ Please send an e-mail to lrebouca@ufba.br to receive a link to the UFBA_UESC_DEN
 * E-mail: [must be the e-mail at the above mentioned institution]
 
 I have read and agreed to follow the terms and conditions below:
-The use of the UFBA_UESC_DENTAL_IMAGES_DEEP dataset is defined by the following conditions:
+The use of the UFBA_UESB_DENTAL_IMAGES_DEEP dataset is defined by the following conditions:
 
 - This dataset is provided “AS IS”, without any express or implied warranty. Although every effort has been made to ensure accuracy, IvisionLab does not take any responsibility for errors or omissions;
 
