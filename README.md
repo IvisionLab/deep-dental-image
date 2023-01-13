@@ -1,3 +1,9 @@
+# Deprecation Warning
+
+Do not request this data set anymore. REQUESTS WILL BE IGNORED.
+This data set has been deprecated in favor of a new, soon-to-be-released data set.
+
+
 # Deep instance segmentation of teeth in panoramic X-ray images
 Mask R-CNN for instance segmentation of panoramic X-ray images
 
