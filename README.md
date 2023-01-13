@@ -20,7 +20,7 @@ JADER, G., FONTINELE J.; RUIZ, M; ABDALLA, K.; PITHON, M.; OLIVEIRA, L. [Deep in
 in panoramic X-ray images](http://ivisionlab.ufba.br/doc/publication/2018/tooth_segmentation.pdf). In: Conference on Graphics, Patterns and Images (SIBGRAPI), 2018.
 
 
-## Request Dataset
+<!--## Request Dataset
 Please send an e-mail to lrebouca@ufba.br to receive a link to the UFBA_UESB_DENTAL_IMAGES_DEEP dataset. Your e-mail must be sent from a valid institutional account, and include the following text (copy and paste the text below, filling the required fields):
 
 "Subject: Request to download UFBA_UESB_DENTAL_IMAGES_DEEP dataset.
@@ -45,4 +45,4 @@ This dataset will only be used for research purposes. I will not make any part o
 [your signature]"
   
   
-**P.S. A link to the dataset file will be sent as soon as possible.**
+**P.S. A link to the dataset file will be sent as soon as possible.**-->
